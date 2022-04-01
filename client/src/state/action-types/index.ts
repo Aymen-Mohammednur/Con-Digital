@@ -1,0 +1,5 @@
+export const GET_STAFFS = "GET_STAFFS"
+export const DELETE_STAFF = "DELETE_STAFF"
+export const ADD_STAFF = "ADD_STAFF"
+export const GET_SINGLE_STAFF = "GET_SINGLE_STAFF"
+export const UPDATE_STAFF = "UPDATE_STAFF"
